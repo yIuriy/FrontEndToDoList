@@ -9,7 +9,7 @@ Este é um front-end simples desenvolvido para testar a API de To-Do List criada
 ## 🛠 Tecnologias Utilizadas
 
 - HTML
-- CSS (básico, não incluso no código enviado)
+- CSS 
 - JavaScript (ES6+)
 - Fetch API para comunicação com a API REST
 
