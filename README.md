@@ -11,7 +11,7 @@ Este é um front-end simples desenvolvido para testar a API de To-Do List criada
 - HTML
 - CSS 
 - JavaScript (ES6+)
-- Fetch API para comunicação com a API REST
+- Fetch API para comunicação com a API 
 
 ---
 
