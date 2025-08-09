@@ -19,10 +19,12 @@ Este é um front-end simples desenvolvido para testar a API de To-Do List criada
 ```
 /front-end
 │── index.html # Página principal
-│── style.css # Estilos básicos (se aplicável)
-│── main.js # Lógica principal para manipular tarefas
+│── style.css # Estilos básicos
+│── icons # Ícones utilizados
 │── taskBuilder.js # Funções para criar os elementos DOM das tarefas
+│── msgBuilder.js # Função para criar mensagem para o usuário
 │── index.js # Funções auxiliares para chamadas à API (CRUD)
+
 ```
 
 ---
